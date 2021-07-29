@@ -1,0 +1,45 @@
+*{margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-image: url("../pybo/IMG_01.jpg") ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-attachment: fixed;
+
+}
+
+
+#contents{
+
+  width: 800px;
+  height: 500px;
+  margin: 0 auto;
+
+
+}
+
+.logo{
+
+  color: wheat;
+  position: absolute;
+  right: 45%;
+  bottom: 35%;
+  font-size: 43px;
+
+}
+span{
+  color: white;
+  position: absolute;
+  right: 50%;
+  bottom: 30%;
+
+}
+span a{
+  text-decoration: none;
+}
+span a:hover{
+  color: blue;
+}
