@@ -3,7 +3,7 @@
   box-sizing: border-box;
 }
 body{
-  background-image: url("../pybo/IMG_01.jpg") ;
+  background-image: url("../images/IMG_01.jpg") ;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: left bottom;

@@ -6,7 +6,7 @@
 #container{
     width: 100%;
     margin: 0 auto;
-    background: url("../pybo/IMG_04.jpg") no-repeat left top ;
+    background: url("../images/IMG_04.jpg") no-repeat left top ;
     background-size: cover;
 }
 
